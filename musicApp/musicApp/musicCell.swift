@@ -2,8 +2,6 @@
 //  musicCell.swift
 //  musicApp
 //
-//  Created by Huzaifa Asif on 2017-07-28.
-//  Copyright © 2017 Huzaifa Asif. All rights reserved.
 //
 
 import UIKit
